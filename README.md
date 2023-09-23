@@ -1,4 +1,4 @@
-# Sales Insights Project
+# Sales Analytics Project
 
 This project involves analyzing sales data stored in a MySQL database using Tableau. The goal is to derive meaningful insights from the data and present them in a visually appealing way.
 
