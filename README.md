@@ -1,4 +1,3 @@
-# Sales_insights
 
 # Sales Insights Project
 
